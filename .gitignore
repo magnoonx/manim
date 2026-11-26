@@ -1,0 +1,21 @@
+﻿
+# --- Modelos de Lenguaje y Pesos IA ---
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+*.tflite
+models/
+checkpoints/
+weights/
+
+# --- Entornos y Secretos ---
+.env
+venv/
+.venv/
+__pycache__/
+node_modules/
